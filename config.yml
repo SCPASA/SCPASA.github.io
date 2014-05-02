@@ -1,0 +1,6 @@
+title: Gettysburg Youth Soccer Club
+message:
+#build config
+server: true
+auto: true
+markdown: rdiscount 
