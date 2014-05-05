@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Gettysburg Youth Soccer Club (GYSC)
+title: South Central PA Soccer Academy (SCPASA)
 img: 
 tags: gettysburg youth soccer club, gettysburg, youth, soccer, club, training, playing, pennsylvania
 ---
