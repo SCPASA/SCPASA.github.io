@@ -41,7 +41,7 @@ body {
 .navbar .nav > li > a:focus,
 .navbar .nav > li > a:hover {
   /*background-color: rgba(291,74,56,1);*/
-  border-bottom: 3px solid #ff3333;
+  border-bottom: 3px solid #129f35;
   border-radius: 0;
   text-decoration: none;
 }
