@@ -8,9 +8,9 @@ permalink: /U16-Boys/
 
 #### Roster
 
-00. JAKE GRAYBILL
+00 - JAKE GRAYBILL
 
-2. ALEC GEHMAN
+2 - ALEC GEHMAN
 
 3. BOBBY WEIKERT
 
