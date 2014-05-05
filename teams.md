@@ -13,7 +13,7 @@ permalink: /teams/
 #####U15 Boys
 [insert picture]
 
-#####U16 Boys
+#####U16 Boys - [Team Information](http://scpasa.github.io/teams/U16-Boys/)
 [insert picture]
 
 #####U12 Girls
