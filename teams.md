@@ -11,12 +11,17 @@ permalink: /teams/
 [insert picture]
 
 #####U15 Boys
+[insert picture]
 
 #####U16 Boys
+[insert picture]
 
 #####U12 Girls
+[insert picture]
 
 #####U14 Girls
+[insert picture]
 
 #####U16 Girls
+[insert picture]
 
