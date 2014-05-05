@@ -22,6 +22,7 @@ Tryouts will be held May 12th - May 16th. Additional information will be made av
 ###Sponsors
 
 
-<a href="http://www.bluegraybargrill.com/"><img src="http://www.bluegraybargrill.com/bluegray/wp-content/uploads/2012/06/bgbg-gry5.png" alt="Logo"></a>
+<a href="http://www.joma-sport.com/en/"><img src="http://scpasa.com/images/stories/logo-joma.gif"></a>
+
 
 <a href="http://www.helicopterapplicators.com/"><img src="http://scpasa.com/images/stories/HAI_Logoerasedsm.jpg"></a>
