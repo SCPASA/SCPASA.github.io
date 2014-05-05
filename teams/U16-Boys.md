@@ -6,7 +6,7 @@ tags: gettysburg youth soccer club, gettysburg, youth, soccer, club, teams
 permalink: /U16-Boys/
 ---
 
-<a href="http://www.joma-sport.com/en/"><img src="http://scpasa.com/media/plg_jblibrary/imagecache/9316ec1eb8cd68014c6a09be252d6286.jpg"></a>
+<a <img src="http://scpasa.com/media/plg_jblibrary/imagecache/9316ec1eb8cd68014c6a09be252d6286.jpg"></a>
 
 #### Roster
 
