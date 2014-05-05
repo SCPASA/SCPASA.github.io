@@ -45,4 +45,13 @@ permalink: /U16-Boys/
 
 2014
 
-dhdhdhfj
+- PA State Cup Finalists/Champions
+- [insert others]
+
+2013
+
+- PA Classics Winter Showcase - Champions
+- EDP Cup 2013 / MSSL 2013 Winter College Showcase - Champions
+- Litiz Summer Showcase - Champions
+- PA Classics Mid-Atlantic Cup - Semi Finalists
+- MAPS Cup Spring - Semi Finalists
