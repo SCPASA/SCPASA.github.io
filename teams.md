@@ -8,6 +8,7 @@ permalink: /teams/
 ###Spring 2014 Teams 
 
 #####U14 Boys
+[insert picture]
 
 #####U15 Boys
 
